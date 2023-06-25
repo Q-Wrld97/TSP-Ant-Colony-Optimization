@@ -18,7 +18,9 @@
 </body>
 
 <h3>Google Colab</h3>
-N/A
+
+https://colab.research.google.com/drive/1rqRKMjXA29FgAbOD-pwa01G7IRkiwXHK?usp=sharing
+
 <h3>GitHub Repo</h3>
 
 https://github.com/Q-Wrld97/TSP-Ant-Colony-Optimization
@@ -65,7 +67,7 @@ Solution and Data Structure proposed by Mahmood Sakib
 <p>
 Implementation was done by Adam Clark with the assistance of Quang Le
 </p>
-<ul>
+</ul>
 
 
 ```python
@@ -118,7 +120,7 @@ Solution and algorithm proposed by Mahmood Sakib
 <p>
 Implementation was done by Adam Clark with the assistance of Quang Le
 </p>
-<ul>
+</ul>
 
 
 ```python
@@ -174,7 +176,7 @@ Algorithm proposed by Adam Clark
 <p>
 Implementation was done by Sakib Mahmood
 </p>
-<ul>
+</ul>
 
 
 ```python
@@ -243,7 +245,7 @@ Algorithm proposed by Adam Clark
 <p>
 Implementation was done by Quang Le
 </p>
-<ul>
+</ul>
 
 
 ```python
@@ -303,7 +305,7 @@ Program design was done by Adam Clark
 <p>
 Implementation was done by Quang Le
 </p>
-<ul>
+</ul>
 
 
 ```python
@@ -455,7 +457,7 @@ Experiement propose by Adam Clark and Sakib Mahmood
 <p>
 Implementation was done by Quang Le and Adam Clark
 </p>
-<ul>
+</ul>
 
 
 
